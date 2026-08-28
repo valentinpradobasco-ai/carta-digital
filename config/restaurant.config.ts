@@ -16,7 +16,7 @@ export const restaurantConfig: RestaurantConfig = {
   shortName: "SRN",
   tagline: "Los mejores lomos de San Luis",
   description:
-    "Parrilla y cocina de autor en el corazón de Mendoza. Producto de estación, brasa lenta y una carta pensada para compartir.",
+    "Somos una lomitería ubicada en el centro de San Luis Capital.",
   logo: "/logo-serrano.png",
   logoShape: "wide",
   heroImage:
